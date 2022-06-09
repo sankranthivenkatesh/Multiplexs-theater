@@ -11,3 +11,5 @@ Theater admin manages the report details like counter wise report, daily, weekly
 3.Advanced booking for the upcoming movies (2 or 3 months before the movie is released) is not included but can be included later. 
 3.Also, a printing system will not be in this project. In future, a ticket printing system can be integrated. 
 4.The customers who have booked the tickets must reach the multiplex 30 minutes prior to the show time or else ticket will get cancelled.
+# Technologies
+Java, JDBC, MySQL, Maven, JUnit, Log4J
